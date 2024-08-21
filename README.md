@@ -1,7 +1,5 @@
 # Newsletter News Webiste by HTML & CSS
 
----
-
 This is a sleek and modern news website designed for desktop users, focusing on delivering the latest updates and information in an engaging and user-friendly layout.
 
 > Design Credit:
