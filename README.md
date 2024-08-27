@@ -3,8 +3,8 @@
 This is a sleek and modern news website designed for desktop users, focusing on delivering the latest updates and information in an engaging and user-friendly layout.
 
 Website Link - https://waiyankyaw-william.github.io/newsletter-news-website/   
-
-
+<br>
+<br>
 
 > Design Credit:
 >
